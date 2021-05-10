@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Era uma vez um homem chamado Jorge" << endl;
+    cout << "ele tinha 70 anos" << endl;
+    cout << "ele gosta do nome Jorge" << endl;
+    cout << "mas não gostava de ter 70 anos" << endl;
+    return 0;
+}
