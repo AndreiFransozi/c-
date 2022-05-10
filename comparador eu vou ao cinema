@@ -1,0 +1,14 @@
+#include <iostream>
+
+using namespace std;
+
+int main(int argc, char** argv)
+{
+	int dinheiro = 29;
+	
+	if(dinheiro > 28)
+	{
+		cout << "Eu vou ao  cinema!";
+	}
+	return 0;
+}
