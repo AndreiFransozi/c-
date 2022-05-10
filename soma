@@ -1,0 +1,17 @@
+#include <iostream>
+
+using namespace std;
+
+int main ()
+{
+	int n1, n2;
+	float resultado;
+	
+	n1 = 10;
+	n2 = 20;
+	
+	resultado = n2 + n1;
+	
+	count << resultado;
+	return 0;
+}
