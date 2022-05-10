@@ -12,6 +12,6 @@ int main ()
 	
 	resultado = n2 / n1;
 	
-	count << n;
+	count << resultado;
 	return 0;
 }
